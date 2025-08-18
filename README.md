@@ -6,7 +6,7 @@ The dashboard highlights **fraud risk insights** that can help in identifying hi
 ---
 
 ## Key Insights Delivered
-- Fraud rate percentage (Fraud vs Non-Fraud)  
+- Fraud rate percentage  
 - Fraud transaction count & critical risk percentage  
 - Fraudulent vs Non-Fraud transaction amounts  
 - Transaction amount breakdown by fraud type & transaction category  
