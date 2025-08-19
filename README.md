@@ -30,7 +30,7 @@ CreditCard-Fraud-Risk-Analysis - PowerBI
 
 ## Dashboard Preview
 
-[Download the full Power BI dashboard (.pbix)](./CreditCardFraudRiskAnalysis.pbix)
+[Download the full Power BI dashboard (.pbix)](./Files/CreditCardFraudRiskAnalysis.pbix)
 
 For more visuals, see the [Screenshots folder](./Screenshots).
 
