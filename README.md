@@ -17,21 +17,24 @@ The dashboard highlights **fraud risk insights** that can help in identifying hi
 ---
 
 ## Tools Used
-- **Power BI Desktop** → dashboard development & visualization  
-- **Power Query** → data cleaning and transformation  
+- **Power BI Desktop** (Power Query + DAX)
 
 ---
 
 ## Repository Structure
-CreditCard-Fraud-Risk-Analysis - PowerBI
-│── Files                 [Dashboard Screenshot](Screenshots/Dashboard.png)  # Contains .pbix Power BI dashboard file
-│── Screenshots           [Report Screenshots](./Screenshots). # Contains Report & Dashboard screenshots (2–4 images)
-│── README.md             # Project documentation
+Credit-Card-Fraud-Risk-Analysis-PowerBI
+├── Files/ # Contains the .pbix file
+├── Screenshots/ # Additional dashboard visuals
+└── README.md # Project overview
 
 ## Dashboard Preview
+[Dashboard Overview](Screenshots/Dashboard.png)
 
-[Download the full Power BI dashboard (.pbix)](./Files)
+**Download the full interactive dashboard (.pbix):** [Download here](Files/Credit%20Card%20Fraud%20Risk%20Analysis.pbix)
 
-For more visuals, see the [Screenshots folder](./Screenshots).
+**For more visuals, see the** [Screenshots folder](./Screenshots).
 
 ---
+
+## About This Project
+A self-developed Power BI dashboard showcasing fraud insights through visuals and interactivity. Ideal for demonstrating analytical thinking and BI development skills.
