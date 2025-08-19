@@ -24,6 +24,6 @@ The dashboard highlights **fraud risk insights** that can help in identifying hi
 
 ## Repository Structure
 CreditCard-Fraud-Risk-Analysis - PowerBI
-│── Files                 # Contains .pbix Power BI dashboard file (Screenshots/Dashboard.png)  
+│── Files                 [Dashboard Screenshot](Screenshots/Dashboard.png)  # Contains .pbix Power BI dashboard file
 │── Screenshots           # Dashboard screenshots (2–3 images)(Screenshots/First_report.png)
 │── README.md             # Project documentation
